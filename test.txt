@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4856-968C
+
+ Directory of C:\Users\prakharbhatia\Downloads\jenkinProject
+
+25-03-2020  19:07    <DIR>          .
+25-03-2020  19:07    <DIR>          ..
+25-03-2020  18:57               674 hello.class
+23-03-2020  20:16               155 hello.java
+25-03-2020  19:07                 0 test.txt
+               3 File(s)            829 bytes
+               2 Dir(s)  84,134,445,056 bytes free
